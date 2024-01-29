@@ -25,6 +25,9 @@ namespace ProiectTK
             VSync = VSyncMode.On;
 
             Console.WriteLine("OpenGl versiunea: " + GL.GetString(StringName.Version));
+            Console.WriteLine("1. Controleaza patratul folosind tastele wasd sau sagetile");
+            Console.WriteLine("2. Apasa click dreapta si click stanga pentru a muta patratul pe diagonala");
+
             Title = "OpenGl versiunea: " + GL.GetString(StringName.Version) + " (mod imediat)";
 
         }

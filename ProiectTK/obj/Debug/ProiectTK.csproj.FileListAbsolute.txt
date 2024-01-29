@@ -22,3 +22,15 @@ D:\Scoala\EGC\Laboratoare\LAB2\ProiectTK\ProiectTK\obj\Debug\ProiectTK.csproj.Co
 D:\Scoala\EGC\Laboratoare\LAB2\ProiectTK\ProiectTK\obj\Debug\ProiectTK.csproj.CopyComplete
 D:\Scoala\EGC\Laboratoare\LAB2\ProiectTK\ProiectTK\obj\Debug\ProiectTK.exe
 D:\Scoala\EGC\Laboratoare\LAB2\ProiectTK\ProiectTK\obj\Debug\ProiectTK.pdb
+D:\Scoala\EGC\LutaGheorgheLab2\ProiectTK\bin\Debug\ProiectTK.exe.config
+D:\Scoala\EGC\LutaGheorgheLab2\ProiectTK\bin\Debug\ProiectTK.exe
+D:\Scoala\EGC\LutaGheorgheLab2\ProiectTK\bin\Debug\ProiectTK.pdb
+D:\Scoala\EGC\LutaGheorgheLab2\ProiectTK\bin\Debug\OpenTK.dll
+D:\Scoala\EGC\LutaGheorgheLab2\ProiectTK\bin\Debug\OpenTK.pdb
+D:\Scoala\EGC\LutaGheorgheLab2\ProiectTK\bin\Debug\OpenTK.xml
+D:\Scoala\EGC\LutaGheorgheLab2\ProiectTK\obj\Debug\ProiectTK.csproj.AssemblyReference.cache
+D:\Scoala\EGC\LutaGheorgheLab2\ProiectTK\obj\Debug\ProiectTK.csproj.SuggestedBindingRedirects.cache
+D:\Scoala\EGC\LutaGheorgheLab2\ProiectTK\obj\Debug\ProiectTK.csproj.CoreCompileInputs.cache
+D:\Scoala\EGC\LutaGheorgheLab2\ProiectTK\obj\Debug\ProiectTK.csproj.CopyComplete
+D:\Scoala\EGC\LutaGheorgheLab2\ProiectTK\obj\Debug\ProiectTK.exe
+D:\Scoala\EGC\LutaGheorgheLab2\ProiectTK\obj\Debug\ProiectTK.pdb
